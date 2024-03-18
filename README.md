@@ -4,6 +4,6 @@
 3、models文件中包含改进BiFormer、EVCBlock、P-ELAN的配置文件
 4、utils里general.py包括MPDIoU损失函数的配置文件，loss.py中的bbox_iou改为MPDIoU损失函数
 5、权重文件使用yolov7.pt,由于文件过大无法上传
-6、数据集无法上传，有需要可以联系我
+6、数据集无法上传，数据集结构如图，有需要数据集可以联系我
 7、训练模型从train.py开始，参数根据硬件环境自己调整
 ![数据集结构](https://github.com/xiaolaji-liang/PCB-defect-detection/assets/102946834/571e9808-fc19-4e2a-b5f1-82c72b7b69ab)
